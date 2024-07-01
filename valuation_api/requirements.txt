@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+Flask-Marshmallow
+requests
+python-dotenv
